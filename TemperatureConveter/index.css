@@ -1,0 +1,44 @@
+body {
+  background-color: aliceblue;
+  font-family: cursive;
+  font-size: 0.8rem;
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+.content {
+  margin: 0px 10px;
+  padding: 20px 0px;
+}
+main {
+  margin: 0px 290px;
+  background-color: beige;
+}
+.heading{
+  text-align: center;
+  padding: 15px 0px;
+  font-size: 1.2rem;
+}
+input,
+select,
+button {
+  margin: 0px 5px;
+}
+.display {
+  text-align: center;
+  font-size: 20px;
+  margin: -9px 290px;
+  background-color: blanchedalmond;
+}
+input {
+  height: 30px;
+  width: 160px;
+  border-radius: 5px;
+  border: none;
+}
+select,
+button {
+  height: 30px;
+  width: 70px;
+}
